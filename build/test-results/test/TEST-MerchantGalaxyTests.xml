@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MerchantGalaxyTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-07-27T07:49:22" hostname="RENTLAPT0041" time="0.148">
+  <properties/>
+  <testcase name="IsConvertSimpleRomanStringToValue" classname="MerchantGalaxyTests" time="0.005"/>
+  <testcase name="QuestionContainsHowMany" classname="MerchantGalaxyTests" time="0.018"/>
+  <testcase name="QuestionContainsHowMuch" classname="MerchantGalaxyTests" time="0.004"/>
+  <testcase name="IsConvertComplexRomanStringToValue" classname="MerchantGalaxyTests" time="0.0"/>
+  <testcase name="CalculatesItemValueFromRomanString" classname="MerchantGalaxyTests" time="0.002"/>
+  <testcase name="CreditsOfItemStatement" classname="MerchantGalaxyTests" time="0.01"/>
+  <testcase name="InvalidRomanNumeralReturnsFalse" classname="MerchantGalaxyTests" time="0.019"/>
+  <testcase name="IsConvertWordStringToRomanString" classname="MerchantGalaxyTests" time="0.006"/>
+  <testcase name="IsConvertSingleWordToRomanNumeral" classname="MerchantGalaxyTests" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
